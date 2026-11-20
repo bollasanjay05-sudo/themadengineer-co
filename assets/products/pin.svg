@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="pin"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1ffe9"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".44"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="26" stdDeviation="22" flood-color="#1a7a25" flood-opacity=".18"/></filter>
+    <filter id="smallshadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#1a7a25" flood-opacity=".16"/></filter>
+    </defs>
+    <rect width="800" height="800" fill="url(#bg)"/><circle cx="700" cy="100" r="190" fill="#8dda61" opacity=".10"/><circle cx="65" cy="690" r="210" fill="#8dda61" opacity=".08"/><circle cx="415" cy="382" r="260" fill="white" opacity=".33"/>
+    <path d="M0 650 800 450" stroke="#ffffff" stroke-width="2" opacity=".55"/><path d="M0 670 800 470" stroke="#ffffff" stroke-width="2" opacity=".4"/>
+    <ellipse cx="405" cy="656" rx="243" ry="31" fill="#48b72a" opacity=".13"/>
+    <g transform="rotate(-12 407 421)" filter="url(#shadow)"><path d="M398 188 479 302 617 316 551 440 590 583 404 536 227 587 265 444 205 320 337 306Z" fill="#8dda61" stroke="#f1ffe9" stroke-width="22"/><text x="402" y="402" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" font-style="italic" font-size="66" fill="white">MAD!</text><text x="402" y="461" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="30" fill="#48b72a">&amp; CO.</text></g>
+    <text x="33" y="760" fill="#1a7a25" opacity=".58" font-size="16" font-family="Arial, sans-serif" font-weight="bold" letter-spacing="4">THE MAD ENGINEER &amp; CO.</text>
+    </svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="business cards"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".44"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="26" stdDeviation="22" flood-color="#1a7a25" flood-opacity=".18"/></filter>
+    <filter id="smallshadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#1a7a25" flood-opacity=".16"/></filter>
+    </defs>
+    <rect width="800" height="800" fill="url(#bg)"/><circle cx="700" cy="100" r="190" fill="#8dda61" opacity=".10"/><circle cx="65" cy="690" r="210" fill="#8dda61" opacity=".08"/><circle cx="415" cy="382" r="260" fill="white" opacity=".33"/>
+    <path d="M0 650 800 450" stroke="#ffffff" stroke-width="2" opacity=".55"/><path d="M0 670 800 470" stroke="#ffffff" stroke-width="2" opacity=".4"/>
+    <ellipse cx="405" cy="656" rx="243" ry="31" fill="#48b72a" opacity=".13"/>
+    <g transform="translate(400 426) rotate(-10) translate(-400 -426)" filter="url(#shadow)"><rect x="186" y="296" width="471" height="286" rx="15" fill="white" stroke="#f1ffe9" stroke-width="6"/><rect x="146" y="249" width="471" height="286" rx="15" fill="#8dda61" stroke="#dbf9ce" stroke-width="5"/><text x="179" y="354" font-size="45" font-family="Arial,sans-serif" font-weight="900" font-style="italic" fill="#ffffff">THE MAD ENGINEER</text><text x="181" y="402" font-size="34" font-family="Arial,sans-serif" font-weight="900" font-style="italic" fill="#ffffff">&amp; CO</text><path d="M182 453 H520" stroke="#48b72a" stroke-width="3"/><text x="183" y="485" font-size="19" font-family="Arial,sans-serif" fill="#1c8523">YOUR BRAND. YOUR RULES.</text></g>
+    <text x="33" y="760" fill="#1a7a25" opacity=".58" font-size="16" font-family="Arial, sans-serif" font-weight="bold" letter-spacing="4">THE MAD ENGINEER &amp; CO.</text>
+    </svg>
